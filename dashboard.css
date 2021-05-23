@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.nav h1{
+    display: block;
+    width:20px;
+}
+.navbar{
+    display: flex;
+}
+.navlist ul{
+    float: right;
+    margin-top:0 ;
+}
